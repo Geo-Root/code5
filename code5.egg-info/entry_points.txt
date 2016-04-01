@@ -1,3 +1,0 @@
-[console_scripts]
-c5 = code5.console_scripts:main
-
